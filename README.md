@@ -8,19 +8,10 @@
 
   <a href="https://github.com/abhishekstan">
     <img
-      align="left"
-      width="396"
+      align="center"
+      width="600"
       src="https://github-readme-streak-stats.herokuapp.com/?user=abhishekstan&theme=react&hide_border=true"
       alt="GitHub Streak"
-    />
-  </a>
-
-  <a href="https://github.com/abhishekstan">
-    <img
-      align="right"
-      width="396"
-      src="https://github-readme-stats.vercel.app/api?username=abhishekstan&show_icons=true&theme=react&border_color=61dafb&hide_border=true&include_all_commits=true&count_private=true"
-      alt="GitHub Stats"
     />
   </a>
 
