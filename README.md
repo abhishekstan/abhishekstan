@@ -1,16 +1,29 @@
-## Hi there 👋
+<h1 align="center"> 
+  <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px"> 
+  Hi, I'm Abhishek Maheshwari !
+</h1>
 
-<!--
-**abhishekstan/abhishekstan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+  <div align="center">
 
-Here are some ideas to get you started:
+  <a href="https://github.com/abhishekstan">
+    <img
+      align="left"
+      width="396"
+      src="https://github-readme-streak-stats.herokuapp.com/?user=abhishekstan&theme=react&hide_border=true"
+      alt="GitHub Streak"
+    />
+  </a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  <a href="https://github.com/abhishekstan">
+    <img
+      align="right"
+      width="396"
+      src="https://github-readme-stats.vercel.app/api?username=abhishekstan&show_icons=true&theme=react&border_color=61dafb&hide_border=true&include_all_commits=true&count_private=true"
+      alt="GitHub Stats"
+    />
+  </a>
+
+  </div>
+
+</div>
